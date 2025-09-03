@@ -8,7 +8,7 @@ int main() {
 double kg = weight * 0.453592;
 double m = height * 0.0254;
 double BMI = kg / (m * m);
-cout << "The BMI for this person is: " << BMI << endl;
+cout << "The BMI for this person is: " << BMI << "." << endl;
 
 
 }
